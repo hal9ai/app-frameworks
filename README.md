@@ -69,3 +69,17 @@ This will open a new browser window for you to select which file you want to ope
 The above procedure along with the running application are shown in the following video:
 
 https://user-images.githubusercontent.com/106683564/173375752-ea0cb3be-390c-44fb-96d3-9b4ed34f3715.mp4
+
+
+
+### Panel
+Once the required packages are installed, open the terminal, go to the location where your files are located and run: 
+
+```console
+panel serve panel_app.ipynb
+```
+
+The console will display an http address where you can find the app.
+
+The above procedure along with the running application are shown in the following video:
+
